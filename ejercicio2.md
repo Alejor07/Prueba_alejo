@@ -21,3 +21,15 @@ Lista desordenada:
 
 Enlace externo:
 [Enlace a Google](https://www.google.com/)
+
+Enlace a un archivo .md:
+[README.md](/README.md)
+
+Imagen:
+![Abacal](images/abascal.webp)
+
+Tabla:
+| Encabezado | Encabezado 2 | Encabezado 3 |
+| --- | --- |--- |
+| Dato 1.1 | Dato 1.2 |Dato 1.3|
+| Dato 2.1 | Dato 2.2 | Dato 2.3|
